@@ -1,0 +1,39 @@
+﻿body {
+    background-color:burlywood;
+}
+h1, h2 {text-align:center;
+}
+.topPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 2%;
+    width: 96%;
+    height: 8%;
+    background-color: lightpink;
+    color: darkblue;
+}
+.menuPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 13%;
+    width: 96%;
+    height: 8%;
+    background-color: antiquewhite;
+    color: darkblue;
+}
+
+.mainPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 24%;
+    width: 96%;
+    height: 90%;
+    background-color: white;
+    color: darkblue;
+}
+.auto {
+    text-align:center;
+}

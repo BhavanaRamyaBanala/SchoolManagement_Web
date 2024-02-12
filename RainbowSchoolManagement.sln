@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowSchoolManagement", "RainbowSchoolManagement\RainbowSchoolManagement.csproj", "{0F41BE6B-AA84-4071-A9B4-BB3EC175668C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F41BE6B-AA84-4071-A9B4-BB3EC175668C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F41BE6B-AA84-4071-A9B4-BB3EC175668C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F41BE6B-AA84-4071-A9B4-BB3EC175668C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F41BE6B-AA84-4071-A9B4-BB3EC175668C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DD7E09-2877-450F-ABE5-FB98A61E00EF}
+	EndGlobalSection
+EndGlobal
